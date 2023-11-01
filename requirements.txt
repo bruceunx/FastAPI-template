@@ -1,0 +1,7 @@
+fastapi
+httpx
+PyJWT==2.7.0
+pytest
+python-multipart==0.0.6
+SQLAlchemy==1.4.48
+uvicorn
